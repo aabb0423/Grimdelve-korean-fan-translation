@@ -1,5 +1,7 @@
 # Grimdelve 한국어 패치
 
+[English](README.en.md)
+
 Grimdelve의 Windows Steam판을 위한 비공식 한국어 패치입니다. 원작 게임을 설치한 뒤 적용할 수 있습니다. [Steam 상점](https://store.steampowered.com/app/3616480/Grimdelve/)
 
 ## 다운로드 및 설치
